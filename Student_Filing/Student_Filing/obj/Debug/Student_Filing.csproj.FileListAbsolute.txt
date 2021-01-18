@@ -1,0 +1,12 @@
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Student_Filing\Student_Filing\bin\Debug\Student_Filing.exe.config
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Student_Filing\Student_Filing\obj\Debug\Student_Filing.csprojResolveAssemblyReference.cache
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Student_Filing\Student_Filing\obj\Debug\Student_Filing.Form1.resources
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Student_Filing\Student_Filing\obj\Debug\Student_Filing.Properties.Resources.resources
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Student_Filing\Student_Filing\obj\Debug\Student_Filing.csproj.GenerateResource.Cache
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Student_Filing\Student_Filing\bin\Debug\Student_Filing.exe
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Student_Filing\Student_Filing\bin\Debug\Student_Filing.pdb
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Student_Filing\Student_Filing\obj\Debug\Student_Filing.exe
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Student_Filing\Student_Filing\obj\Debug\Student_Filing.pdb
+D:\Basit\Student_Filing\Student_Filing\bin\Debug\Student_Filing.exe.config
+D:\Basit\Student_Filing\Student_Filing\obj\Debug\Student_Filing.exe
+D:\Basit\Student_Filing\Student_Filing\obj\Debug\Student_Filing.pdb

@@ -1,0 +1,12 @@
+c:\users\17b-097-se\documents\visual studio 2013\Projects\ExceptionalHandling\ExceptionalHandling\bin\Debug\ExceptionalHandling.exe.config
+c:\users\17b-097-se\documents\visual studio 2013\Projects\ExceptionalHandling\ExceptionalHandling\bin\Debug\ExceptionalHandling.exe
+c:\users\17b-097-se\documents\visual studio 2013\Projects\ExceptionalHandling\ExceptionalHandling\bin\Debug\ExceptionalHandling.pdb
+c:\users\17b-097-se\documents\visual studio 2013\Projects\ExceptionalHandling\ExceptionalHandling\obj\Debug\ExceptionalHandling.csprojResolveAssemblyReference.cache
+c:\users\17b-097-se\documents\visual studio 2013\Projects\ExceptionalHandling\ExceptionalHandling\obj\Debug\ExceptionalHandling.exe
+c:\users\17b-097-se\documents\visual studio 2013\Projects\ExceptionalHandling\ExceptionalHandling\obj\Debug\ExceptionalHandling.pdb
+C:\Users\DELL\Desktop\USB\OOP Prac\Basit\ExceptionalHandling\ExceptionalHandling\bin\Debug\ExceptionalHandling.exe.config
+C:\Users\DELL\Desktop\USB\OOP Prac\Basit\ExceptionalHandling\ExceptionalHandling\obj\Debug\ExceptionalHandling.exe
+C:\Users\DELL\Desktop\USB\OOP Prac\Basit\ExceptionalHandling\ExceptionalHandling\obj\Debug\ExceptionalHandling.pdb
+C:\Users\DELL\Desktop\USB\OOP Prac\Basit\ExceptionalHandling\ExceptionalHandling\bin\Debug\ExceptionalHandling.exe
+C:\Users\DELL\Desktop\USB\OOP Prac\Basit\ExceptionalHandling\ExceptionalHandling\bin\Debug\ExceptionalHandling.pdb
+C:\Users\DELL\Desktop\USB\OOP Prac\Basit\ExceptionalHandling\ExceptionalHandling\obj\Debug\ExceptionalHandling.csprojResolveAssemblyReference.cache
