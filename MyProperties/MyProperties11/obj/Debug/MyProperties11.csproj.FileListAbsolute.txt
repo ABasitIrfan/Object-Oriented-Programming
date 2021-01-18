@@ -1,0 +1,8 @@
+c:\users\17b-097-se\documents\visual studio 2013\Projects\MyProperties11\MyProperties11\bin\Debug\MyProperties11.exe.config
+c:\users\17b-097-se\documents\visual studio 2013\Projects\MyProperties11\MyProperties11\bin\Debug\MyProperties11.exe
+c:\users\17b-097-se\documents\visual studio 2013\Projects\MyProperties11\MyProperties11\bin\Debug\MyProperties11.pdb
+c:\users\17b-097-se\documents\visual studio 2013\Projects\MyProperties11\MyProperties11\obj\Debug\MyProperties11.exe
+c:\users\17b-097-se\documents\visual studio 2013\Projects\MyProperties11\MyProperties11\obj\Debug\MyProperties11.pdb
+C:\Users\DELL\Desktop\USB\OOP Prac\Basit\MyProperties11\MyProperties11\bin\Debug\MyProperties11.exe.config
+C:\Users\DELL\Desktop\USB\OOP Prac\Basit\MyProperties11\MyProperties11\obj\Debug\MyProperties11.exe
+C:\Users\DELL\Desktop\USB\OOP Prac\Basit\MyProperties11\MyProperties11\obj\Debug\MyProperties11.pdb
