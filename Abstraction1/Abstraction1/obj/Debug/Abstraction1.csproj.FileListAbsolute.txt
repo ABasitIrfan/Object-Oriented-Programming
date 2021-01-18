@@ -1,0 +1,9 @@
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Abstraction1\Abstraction1\bin\Debug\Abstraction1.exe.config
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Abstraction1\Abstraction1\obj\Debug\Abstraction1.csprojResolveAssemblyReference.cache
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Abstraction1\Abstraction1\bin\Debug\Abstraction1.exe
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Abstraction1\Abstraction1\bin\Debug\Abstraction1.pdb
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Abstraction1\Abstraction1\obj\Debug\Abstraction1.exe
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Abstraction1\Abstraction1\obj\Debug\Abstraction1.pdb
+C:\Users\DELL\Desktop\USB\OOP Prac\Abstraction1\Abstraction1\bin\Debug\Abstraction1.exe.config
+C:\Users\DELL\Desktop\USB\OOP Prac\Abstraction1\Abstraction1\obj\Debug\Abstraction1.exe
+C:\Users\DELL\Desktop\USB\OOP Prac\Abstraction1\Abstraction1\obj\Debug\Abstraction1.pdb
