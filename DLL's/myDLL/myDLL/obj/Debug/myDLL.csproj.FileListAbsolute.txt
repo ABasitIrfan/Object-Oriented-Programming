@@ -1,0 +1,5 @@
+C:\Users\17b-097-se\Documents\Visual Studio 2013\Projects\myDLL\myDLL\bin\Debug\myDLL.dll
+C:\Users\17b-097-se\Documents\Visual Studio 2013\Projects\myDLL\myDLL\bin\Debug\myDLL.pdb
+C:\Users\17b-097-se\Documents\Visual Studio 2013\Projects\myDLL\myDLL\obj\Debug\myDLL.csprojResolveAssemblyReference.cache
+C:\Users\17b-097-se\Documents\Visual Studio 2013\Projects\myDLL\myDLL\obj\Debug\myDLL.dll
+C:\Users\17b-097-se\Documents\Visual Studio 2013\Projects\myDLL\myDLL\obj\Debug\myDLL.pdb
