@@ -1,0 +1,6 @@
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Filing\Filing\bin\Debug\Filing.exe.config
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Filing\Filing\bin\Debug\Filing.exe
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Filing\Filing\bin\Debug\Filing.pdb
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Filing\Filing\obj\Debug\Filing.csprojResolveAssemblyReference.cache
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Filing\Filing\obj\Debug\Filing.exe
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Filing\Filing\obj\Debug\Filing.pdb
