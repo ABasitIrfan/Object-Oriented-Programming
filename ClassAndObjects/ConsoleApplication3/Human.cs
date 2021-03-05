@@ -14,7 +14,7 @@ namespace ConsoleApplication3
         public Human()
         {
             //base.work();
-            Console.WriteLine("I am Human Contructor");
+            Console.WriteLine("I am Human Constructor");
         }
         public Human(string n,string c,string ad,string ec)
         {
@@ -22,7 +22,6 @@ namespace ConsoleApplication3
             contact = c;
             address = ad;
          
-            
 
     }
         public void display()
