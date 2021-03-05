@@ -10,7 +10,6 @@ namespace ConsoleApplication1
     {
         public void add()
         {
-
         }
         public void add(int a,int b)
         {
@@ -30,7 +29,6 @@ namespace ConsoleApplication1
         //}
         public void add(float a, float b)
         {
-
         }
 
     }
